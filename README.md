@@ -14,5 +14,4 @@ The background image is curtesy of [Upsplash](https://unsplash.com/). The photo 
 ## Questions
 Have questions or comments about this application?
 
-- Please feel free to email me at: garzoni.webdev@gmail.com
 - Or find me on GitHub at: [RevyWatson](https://github.com/RevyWatson)
